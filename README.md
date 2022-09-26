@@ -1,0 +1,1 @@
+# TypeScript projeto de TypeScript
